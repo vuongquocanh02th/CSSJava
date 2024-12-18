@@ -1,0 +1,18 @@
+h1{
+    color: green;
+}
+p{
+    color: blue;
+}
+
+.inline-style{
+    color: blue;
+}
+
+.internal-style{
+    color: blue;
+}
+
+.external-style{
+    color: purple;
+}
